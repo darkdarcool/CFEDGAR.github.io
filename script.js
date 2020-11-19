@@ -1,0 +1,1 @@
+document.getElementById("dong") = alert('Welcome to the edgar allen poe quiz!\n This was made by Darren Reddy!\n And a couple of friends to slap some common sense into him')
